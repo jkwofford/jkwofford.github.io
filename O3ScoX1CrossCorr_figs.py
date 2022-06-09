@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T18:44:43.104Z" agent="5.0 (X11)" etag="LEaZ1cRGPkcr1FPcmQRa" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T19:09:29.914Z" agent="5.0 (X11)" etag="D7lRTyGcC1s7G5rwhzP8" version="16.5.6" type="github">
   <diagram id="xByAA2xhnRinG42e1BB1" name="Page-1">
-    <mxGraphModel dx="18870" dy="11280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="28140" dy="19360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="Tffpq6LBBL-PdYRvwtU_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=200;strokeWidth=50;" edge="1" parent="1" source="Tffpq6LBBL-PdYRvwtU_-4" target="Tffpq6LBBL-PdYRvwtU_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tffpq6LBBL-PdYRvwtU_-8" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=200;" vertex="1" connectable="0" parent="Tffpq6LBBL-PdYRvwtU_-7">
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-8" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=200;" vertex="1" connectable="0" parent="Tffpq6LBBL-PdYRvwtU_-7">
           <mxGeometry x="-0.2549" y="10" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -42,7 +42,7 @@
         <mxCell id="Tffpq6LBBL-PdYRvwtU_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=200;strokeWidth=50;" edge="1" parent="1" source="Tffpq6LBBL-PdYRvwtU_-4" target="Tffpq6LBBL-PdYRvwtU_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tffpq6LBBL-PdYRvwtU_-11" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=200;" vertex="1" connectable="0" parent="Tffpq6LBBL-PdYRvwtU_-10">
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-11" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=200;" vertex="1" connectable="0" parent="Tffpq6LBBL-PdYRvwtU_-10">
           <mxGeometry x="0.1648" y="-45" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,11 +50,31 @@
         <mxCell id="Tffpq6LBBL-PdYRvwtU_-4" value="&lt;font style=&quot;font-size: 200px&quot;&gt;i = 0?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);strokeWidth=2;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
           <mxGeometry x="-2757" y="4090" width="2820" height="1910" as="geometry" />
         </mxCell>
-        <mxCell id="Tffpq6LBBL-PdYRvwtU_-6" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=200;fontColor=#FF3333;strokeWidth=50;" edge="1" parent="1" source="Tffpq6LBBL-PdYRvwtU_-6" target="Tffpq6LBBL-PdYRvwtU_-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-6" value="&lt;font style=&quot;font-size: 200px&quot;&gt;assert_equal if orbital paramsare consistent for all ini files&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);strokeWidth=2;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
           <mxGeometry x="-2830" y="7710" width="2980" height="1945" as="geometry" />
         </mxCell>
-        <mxCell id="Tffpq6LBBL-PdYRvwtU_-9" value="&lt;font style=&quot;font-size: 200px&quot;&gt;i == 0&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2673" y="4100" width="1720" height="1890" as="geometry" />
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=200;fontColor=#FF3333;strokeWidth=50;" edge="1" parent="1" source="Tffpq6LBBL-PdYRvwtU_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6110" y="5050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-9" value="&lt;font style=&quot;font-size: 200px&quot;&gt;Read in orbital parameters&#39; values &lt;br&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=rgb(255, 255, 255);strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2376" y="3920" width="2314" height="2250" as="geometry" />
+        </mxCell>
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-84" value="Orbital Params" style="swimlane;rounded=1;fontSize=200;fontColor=#FF3333;strokeWidth=20;startSize=540;" vertex="1" parent="1">
+          <mxGeometry x="6310" y="4420" width="1920" height="1760" as="geometry" />
+        </mxCell>
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=200;fontColor=#FF3333;strokeWidth=50;" edge="1" parent="1" source="Tffpq6LBBL-PdYRvwtU_-85" target="Tffpq6LBBL-PdYRvwtU_-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-85" value="&lt;font style=&quot;font-size: 200px&quot;&gt;Read K1, Tsigma&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=rgb(0, 0, 0);align=center;strokeColor=rgb(0, 0, 0);strokeWidth=2;fillColor=rgb(255, 255, 255);" vertex="1" parent="1">
+          <mxGeometry x="-2830" y="10128" width="2980" height="1945" as="geometry" />
+        </mxCell>
+        <mxCell id="Tffpq6LBBL-PdYRvwtU_-92" value="Orbital Params" style="swimlane;rounded=1;fontSize=200;fontColor=#FF3333;strokeWidth=20;startSize=540;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="10080" width="1920" height="1760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
